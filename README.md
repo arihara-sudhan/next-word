@@ -1,3 +1,4 @@
+<img src="sshot.jpg" alt=""/>
 What do you have to do?
 
 <h5>ஃ Create A Virtual Environment First</h5>
